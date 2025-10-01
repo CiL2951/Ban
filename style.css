@@ -77,3 +77,55 @@ display: block;
 color: rgba(47, 43, 67, 0.5);
 margin-top: 40px;
 }
+.stroca{
+    margin: 40px 0px;
+}
+
+.stroca1{
+    width: 657px;
+    display: flex;
+    flex-direction: column;
+}
+.stroca a{
+    text-decoration: none;
+    color: rgba(47, 43, 67, 0.5);
+}
+
+.heading{
+    font-size: 38px;
+    color: #140A32;
+    font-weight: 700;
+    line-height: 52px;
+    padding: 30px 0px;
+}
+
+.text{
+    line-height: 160%;
+}
+
+.stroca1-2{
+    padding: 30px 0px;
+    display: flex;
+    gap: 30px;
+}
+
+.phone-number1{
+    color: rgba(51, 131, 110, 1);
+    font-size: 24px;
+    line-height: 33px;
+    
+}
+
+.contact-info {
+    font-size: 12px;
+    line-height: 35px;
+    color: rgba(47, 43, 67, 0.5);
+}
+.contact-info1 {
+    display: block;
+    height: 0px;
+    border: 2px solid #33836E;
+}
+.human{
+    display: flex;
+}
